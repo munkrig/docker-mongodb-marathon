@@ -1,7 +1,7 @@
 FROM ubuntu:14.04.3
 MAINTAINER tobilg <fb.tools.github@gmail.com>
 
-ENV REBUILD true
+ENV REBUILD TRUE
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV TERM xterm
